@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.texto-navbar{
+    font-family: 'Lobster', cursive;
+}
+
+body {
+    background-color: #dae1e7;
+}
